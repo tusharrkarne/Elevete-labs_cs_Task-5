@@ -54,7 +54,7 @@ $sudo apt update -y
 -	Run a few of these (mix them) while the capture is running for ~1 minute
 5.	Stop capture and save pcapng / pcap
 If using GUI — click Stop and File → Save As....
-If using CLI — capture will stop automatically if you used -a duration or press Ctrl+C to stop tshark/dumpcap
+If using CLI — capture will stop automatically if you used -a duration or press Ctrl+C to stop tshark/dumpcap.
 
 
 
